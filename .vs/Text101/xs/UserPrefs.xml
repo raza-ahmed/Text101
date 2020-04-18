@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{C13A9A71-1AB5-858C-0CC3-4DA63900D2E1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TextController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CorridorTextController.cs">
     <Files>
-      <File FileName="Assets/TextController.cs" Line="1" Column="1" />
+      <File FileName="Assets/TextController.cs" Line="5" Column="1" />
+      <File FileName="Assets/CorridorTextController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Text101" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="TextController.cs" selected="True" />
+              <Node name="CorridorTextController.cs" selected="True" />
             </Node>
           </Node>
         </State>
